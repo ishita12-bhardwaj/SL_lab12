@@ -1,0 +1,8 @@
+POST http://localhost:3000/add-new-post
+Content-Type: application/json
+
+{
+    "bookname":"The Wimpy Kid",
+    "issuer":"Isha tomer",
+    "duedate":"11th Feb 2021"
+}
